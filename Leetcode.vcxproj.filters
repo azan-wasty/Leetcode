@@ -33,5 +33,8 @@
     <ClCompile Include="Largest3digitString.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Add2Nums.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

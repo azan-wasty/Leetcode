@@ -123,6 +123,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Add2Nums.cpp" />
     <ClCompile Include="Largest3digitString.cpp" />
     <ClCompile Include="maxEnergy.cpp" />
     <ClCompile Include="poweof4.cpp" />
