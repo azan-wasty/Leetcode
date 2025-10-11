@@ -125,10 +125,13 @@
   <ItemGroup>
     <ClCompile Include="Add2Nums.cpp" />
     <ClCompile Include="Largest3digitString.cpp" />
+    <ClCompile Include="longestNonRepeatingSubstring.cpp" />
     <ClCompile Include="maxEnergy.cpp" />
+    <ClCompile Include="Median0f2sortedArrays.cpp" />
     <ClCompile Include="poweof4.cpp" />
     <ClCompile Include="powerOf3.cpp" />
     <ClCompile Include="ProductExceptItself.cpp" />
+    <ClCompile Include="RevInt.cpp" />
     <ClCompile Include="TwoSum.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

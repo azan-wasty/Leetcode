@@ -36,5 +36,14 @@
     <ClCompile Include="Add2Nums.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="longestNonRepeatingSubstring.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Median0f2sortedArrays.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RevInt.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
