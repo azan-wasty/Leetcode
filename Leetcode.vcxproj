@@ -124,6 +124,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Add2Nums.cpp" />
+    <ClCompile Include="ContainerwithMostWater.cpp" />
     <ClCompile Include="IntPalindrome.cpp" />
     <ClCompile Include="Largest3digitString.cpp" />
     <ClCompile Include="longestNonRepeatingSubstring.cpp" />
