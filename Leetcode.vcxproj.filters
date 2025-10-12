@@ -45,5 +45,8 @@
     <ClCompile Include="RevInt.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="StrToInt.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

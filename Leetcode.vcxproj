@@ -132,6 +132,7 @@
     <ClCompile Include="powerOf3.cpp" />
     <ClCompile Include="ProductExceptItself.cpp" />
     <ClCompile Include="RevInt.cpp" />
+    <ClCompile Include="StrToInt.cpp" />
     <ClCompile Include="TwoSum.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
