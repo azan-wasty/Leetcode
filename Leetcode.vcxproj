@@ -123,6 +123,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="3sum.cpp" />
     <ClCompile Include="Add2Nums.cpp" />
     <ClCompile Include="ContainerwithMostWater.cpp" />
     <ClCompile Include="IntPalindrome.cpp" />
