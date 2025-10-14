@@ -128,6 +128,7 @@
     <ClCompile Include="IntPalindrome.cpp" />
     <ClCompile Include="Largest3digitString.cpp" />
     <ClCompile Include="longestNonRepeatingSubstring.cpp" />
+    <ClCompile Include="LongestPrefix.cpp" />
     <ClCompile Include="maxEnergy.cpp" />
     <ClCompile Include="Median0f2sortedArrays.cpp" />
     <ClCompile Include="poweof4.cpp" />
